@@ -26,6 +26,15 @@
         width:50%;
         height: 500px;
     }
+    .portfolio-card{
+        display: block;
+    }
+    .portfolio-card > div {
+        width: 100%;
+    }
+    .portfolio-card-txt{
+        margin: 20px auto;
+    }
     .contact-content{
         display: block;
     }

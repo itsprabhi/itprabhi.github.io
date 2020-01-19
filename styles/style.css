@@ -10,6 +10,7 @@ body,h1,h2,h3,h4,h5{
 body{
     background: #001B3A;
     color: white;
+    overflow-x: hidden;
 }
 
 h1,h2,h3,h4,h5{
