@@ -17,7 +17,7 @@
     .nav-items ul{
         position: absolute;
         top:10vh;
-        right: -1000px;
+        right: -350px;
         background: #001B3A;
         width: 100vw;
         padding-left: 50px;
@@ -57,7 +57,7 @@
     }
 
     .toggle-nav{
-        transform: translateX(-500px);
+        transform: translateX(-10px);
         transition: 0.3s;
     }
 
@@ -91,6 +91,6 @@
 
 @media screen and (max-width:600px){
     .navbar-list ul{
-        width: 150vw;
+        
     }
 }
