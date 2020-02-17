@@ -62,9 +62,3 @@
         align-items: center;
     }
 }
-
-@media screen and (max-width:400px){
-    .social-item{
-        margin-top: 35px;
-    }
-}

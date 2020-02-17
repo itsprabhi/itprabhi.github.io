@@ -259,7 +259,7 @@ nav, .intro-text{
 
 .social-item{
     display: inline-block;
-    margin-right: 15px;
+    margin: 10px 15px auto auto;
 }
 
 .social-icons ul{
