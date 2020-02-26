@@ -365,6 +365,9 @@ footer a{
 }
 
 @media screen and (max-width:800px){
+    .section-text h2{
+        font-size: 30px;
+    }
     .about-page{
         height: auto;
         min-height: auto;
