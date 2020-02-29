@@ -3,6 +3,8 @@ document.getElementById('toggle').addEventListener('click',()=>{
         document.getElementById('toggle-list').classList.remove('toggle-nav')
         document.getElementById('toggle-list').classList.add('toggle-nav-close');
 
+        
+
         document.getElementById('toggle').classList.remove('toggle-on')
         document.getElementById('toggle').classList.add('toggle-bar')
         
